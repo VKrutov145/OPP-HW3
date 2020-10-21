@@ -1,0 +1,6 @@
+E:\Projects\Rider\HW3\Ex2\Ex2\bin\Debug\Ex2.exe
+E:\Projects\Rider\HW3\Ex2\Ex2\bin\Debug\Ex2.pdb
+E:\Projects\Rider\HW3\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+E:\Projects\Rider\HW3\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+E:\Projects\Rider\HW3\Ex2\Ex2\obj\Debug\Ex2.exe
+E:\Projects\Rider\HW3\Ex2\Ex2\obj\Debug\Ex2.pdb

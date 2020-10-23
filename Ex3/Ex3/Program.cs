@@ -40,10 +40,10 @@ namespace Ex3
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
-            double GrnAmount = 300;
-            double EurAmount = 1700026;
+            double GrnAmount = 300100;
+            double EurAmount = 20013;
             double UsdAmount = 172;
             
             Converter UsdEurConverter = new Converter(27.567, 33.128);

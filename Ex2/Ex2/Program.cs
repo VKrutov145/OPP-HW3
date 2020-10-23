@@ -87,7 +87,9 @@ namespace Ex2
         public Group(string name1, string name2, string name3)
         {
             Random rand = new Random();
+            
             List<string> Names = new List<string>(){ name1, name2, name3 };
+            
             for (int i = 0; i < 3; i++)
             {
                 int randomBool = rand.Next(2);
@@ -122,7 +124,7 @@ namespace Ex2
     {
         static void Main(string[] args)
         {
-            Group K24 = new Group("SonyaandVasya", "Vasyl", "Sonya");
+            Group K24 = new Group("David", "Andrew", "Yulia");
             K24.ShowGroup();
         }
     }
